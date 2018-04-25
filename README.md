@@ -1,6 +1,8 @@
 ### 笔记
 所有笔记wiki 查看😘：https://github.com/nobbSir/study/wiki
 ### 更新🤣
+#### 2018-04-24
+[Autolayout备忘录](https://github.com/nobbSir/study/wiki/Autolayout备忘录)
 #### 2018-04-24 😆
 *  [探究：size 赋值,XCode 提示“expression is not assignable”](https://github.com/nobbSir/study/wiki/探究：size-赋值,XCode-提示“expression-is-not-assignable”)
 *  [引导图不放在 Assets.xcassets 中的原因](https://github.com/nobbSir/study/wiki/引导图不放在-Assets.xcassets-中的原因)

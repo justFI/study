@@ -1,7 +1,9 @@
 ### 笔记
 所有笔记wiki 查看😘：https://github.com/nobbSir/study/wiki
 ### 更新🤣
-#### 2018-04-24
+#### 2018-04-26
+ [UIView 的setNeedsLayout、layoutIfNeeded、layoutSubviews](https://github.com/nobbSir/study/wiki/UIView-的setNeedsLayout、layoutIfNeeded、layoutSubviews)
+#### 2018-04-25
 [Autolayout备忘录](https://github.com/nobbSir/study/wiki/Autolayout备忘录)
 #### 2018-04-24 😆
 *  [探究：size 赋值,XCode 提示“expression is not assignable”](https://github.com/nobbSir/study/wiki/探究：size-赋值,XCode-提示“expression-is-not-assignable”)

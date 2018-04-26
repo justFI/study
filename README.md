@@ -4,6 +4,7 @@
 #### 2018-04-26
 *  [UIView 的setNeedsLayout、layoutIfNeeded、layoutSubviews](https://github.com/nobbSir/study/wiki/UIView-的setNeedsLayout、layoutIfNeeded、layoutSubviews)
  * [UIView 的initWithFrame、initWithCoder、awakeFromNib、sizeToFit、sizeThatFits](https://github.com/nobbSir/study/wiki/UIView-的initWithFrame、initWithCoder、awakeFromNib、sizeToFit、sizeThatFits)
+ *  [self.变量-与_变量-的区别备忘录](https://github.com/nobbSir/study/wiki/self.变量-与_变量-的区别备忘录)
 #### 2018-04-25
 [Autolayout备忘录](https://github.com/nobbSir/study/wiki/Autolayout备忘录)
 #### 2018-04-24 😆
